@@ -1,2 +1,2 @@
-# NuCamp-First
+# Nucamp-First
 Very first repository
